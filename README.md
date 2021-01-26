@@ -22,7 +22,7 @@ http://staticwebsite-s3bucket-1k9n00rw3v508.s3-website-us-east-1.amazonaws.com/i
 http://3.239.228.141:8080/job/Demo-CI-CD/
 ```
 
-## Prioritized list of five development tasks i would do next to improve my solution to the code challenge
+## Prioritized list of five development tasks to improve the code challenge
 
 ```
 1. Python
